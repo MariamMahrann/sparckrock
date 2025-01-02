@@ -11,5 +11,6 @@ Ensure you have the following installed on your machine:
 
 Install cypress:
 npm install cypress --save-dev
+
 Open cypress:
 npx cypress open

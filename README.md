@@ -9,6 +9,8 @@ Ensure you have the following installed on your machine:
 - **Node.js** (LTS version recommended)
 - **npm** (comes with Node.js)
 
+Install Dependencies: npm install
+
 Install cypress:
 npm install cypress --save-dev
 

@@ -6,8 +6,8 @@ video link: https://drive.google.com/file/d/1qr325UqJ3s-eZYEsKvdLaV5x_GSum68R/vi
 
 To run the project
 Ensure you have the following installed on your machine:
-Node.js (LTS version recommended)
-npm (comes with Node.js)
+- **Node.js** (LTS version recommended)
+- **npm** (comes with Node.js)
 
 Install cypress:
 npm install cypress --save-dev
